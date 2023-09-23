@@ -7,7 +7,7 @@ Projeto autoral com objetivo de utilizar ciência de dados para responder o que 
 
 | :placard: Vitrine.Dev |    [Minha Vitrine](https://cursos.alura.com.br/vitrinedev/kaueabbehausen)   |
 | -------------  | --- |
-| :sparkles: Nome        | **Projeto Tornando Cientista de Dados**
+| :sparkles: Nome        | **Tornando Cientista de Dados**
 | :label: Tecnologias | Python, Data Science, Storytelling
 | :rocket: URL         |
 | :fire: Desafio     | 
